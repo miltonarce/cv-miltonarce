@@ -1,0 +1,218 @@
+{
+  "main": {
+    "name": "Milton Arce",
+    "occupation": "(Full Stack Developer)",
+    "description": "Usually working with JavaScript (React), HTML5, CSS and PHP (Laravel). I'm 26 years old and I'm studying Web developer career in Esculea Davinci, i never stopped learning.",
+    "image": "profilepic.jpg",
+    "bio": "Web designer and developer in HTML5, CSS3, JavaScript and Php among others. Willing to overcome both my personal goals and those of the company. Motivated to work as a team and to be able to demand my limits to accomplish the objectives given. Grow both in experience and in knowledge.",
+    "contactmessage": "Do you want to contact me? here are my data again.",
+    "email": "miltonhernan.arce@gmail.com",
+    "phone": "(+54) 011 36924238",
+    "address": {
+      "street": "ID: 36.763.942",
+      "city": "(Quilmes)",
+      "state": "(Buenos Aires)",
+      "zip": "1878"
+    },
+    "website": "https://miltonarce.github.io/cv-miltonarce",
+    "resumedownload": "https://drive.google.com/open?id=1XEXNU8W4nmJfHUDAz-m6aqZYdgDTl2C6",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/milton.arce.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/miltonharce?lang=es",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "https://plus.google.com/u/0/113203247828203858023",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/miltonarce/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/miltonarce",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are my skills",
+    "education": [
+      {
+        "school": "University? Davinci",
+        "degree": "Designer and Web developer",
+        "graduated": "In progress",
+        "description": "Student of the design and web development career at the Davinci School of Multimedia Art"
+      },
+      {
+        "school": "School? School Santa Teresita del Niño Jesus",
+        "degree": "Humanities",
+        "graduated": "December 2010",
+        "description": "I am graduated as a bachelor of Humanities in the Santa Teresita high school."
+      },
+      {
+        "school": "Others? UADE",
+        "degree": "Informatics Engineering",
+        "graduated": "December 2014 - incomplete",
+        "description": "Two years of study in the computer engineering career at Universidad Argentina de la empresa."
+      }
+    ],
+    "work": [
+      {
+        "company": "Close-up International",
+        "title": "Full Stack Developer / Responsible for collaborative applications",
+        "years": "September 2017 - Present",
+        "description": "Responsible for collaborative applications and Full Stack developer. I control approximately between 25 and 30 applications for internal users and clients. I usually do maintenance, updating, modification and development of them. I work with technologies like, Wordpress, Php, Laravel, Mysql, JavaScript Native, Jquery, AngularJs, React, Html5, Css3, Sass, Bootstrap, Materialize, Material-ui, Antd, NodeJs, Adobe Photoshop and Illustrator, Git with Jira and Bitbucket among others."
+      },
+      {
+        "company": "Sanatorio Bernal S.R.L",
+        "title": "Web Developer / Responsible for collaborative applications",
+        "years": "February 2014 - September 2017",
+        "description": "Responsible for collaborative applications, administration, development and maintenance of corporate websites and apps. Here I work with technologies such as Html5, css3, Native JavaScript, Php and Wordpress. Also perform some Ui-Ux Design and Helpdesk tasks."
+      },
+      {
+        "company": "Telefónica S.A.",
+        "title": "Helpdesk IT",
+        "years": "May 2013 - July 2013",
+        "description": "Technical support for big companies on networks and internet connections."
+      },
+      {
+        "company": "Freelance ",
+        "title": "Freelance developer",
+        "years": "February 2011 - February 2014",
+        "description": "I worked in small private projects as a freelance developer for some clients, developed in Html and Java Script."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript Vanilla",
+        "level": "80%"
+      },
+      {
+        "name": "Jquery",
+        "level": "70%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "60%"
+      },
+      {
+        "name": "AJAX",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "SASS",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Php",
+        "level": "80%"
+      },
+      {
+        "name": "Laravel",
+        "level": "40%"
+      },
+      {
+        "name": "Mysql",
+        "level": "80%"
+      },
+      {
+        "name": "JSON",
+        "level": "90%"
+      },
+      {
+        "name": "Linux Lamp",
+        "level": "60%"
+      },
+      {
+        "name": "Windows Server",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe Suite ",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Owncloud Gallery",
+        "category": "Contributor for the Owncloud application and company",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://github.com/miltonarce/gallery"
+      },
+      {
+        "title": "Task Manager",
+        "category": "Application of tasks in react",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://github.com/miltonarce/TaskManager-react"
+      },
+      {
+        "title": "Weather App",
+        "category": "Weather application with open weather api",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/miltonarce/weatherApp-test"
+      },
+      {
+        "title": "Test for Summa",
+        "category": "Web test in php and Jquery for Summa Solutions",
+        "image": "resume-website.jpg",
+        "url": "https://github.com/miltonarce/test-fe-summa"
+      },
+      {
+        "title": "My Cv",
+        "category": "my cv done in react.",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/miltonarce/my-cv-react"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Como profesor muchas veces vemos que los alumnos quieren llegar al resultado y no al aprendizaje, Milton en cambio siempre priorizo entender los temas para poder mejorarlos constantemente, avanzando rápido en poco tiempo. Su constancia y dedicación son aspectos a destacar.",
+        "user": "Gonzalo Pozzo - Sr Developer (Linkedin)"
+      }
+    ]
+  }
+}
