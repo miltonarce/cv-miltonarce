@@ -35,7 +35,7 @@ class Contact extends Component {
                 <br />
                 Email: {email}
                 <br />
-                <span>Phone: {phone}</span>
+      {/*<span>Phone: {phone}</span>*/}
               </p>
             </div>
           </div>
